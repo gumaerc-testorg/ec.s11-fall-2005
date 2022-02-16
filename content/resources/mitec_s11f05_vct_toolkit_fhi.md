@@ -2,8 +2,13 @@
 content_type: resource
 description: 'This resource contains the information regarding VCT Toolkit - Voluntary
   Counseling and Testing and Young People: A Summary Overview.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/d6ba097f206df53943ffd42ddbc177fd_MITEC_S11F05_vct_toolkit_fhi.pdf
+file: /media/courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/d6ba097f206df53943ffd42ddbc177fd_MITEC_S11F05_vct_toolkit_fhi.pdf
 file_type: application/pdf
+learning_resource_types:
+- Readings
+ocw_type: OCWFile
+parent_title: Readings
+parent_type: CourseSection
 resourcetype: Document
 title: 'VCT Toolkit - Voluntary Counseling and Testing and Young People: A Summary
   Overview'

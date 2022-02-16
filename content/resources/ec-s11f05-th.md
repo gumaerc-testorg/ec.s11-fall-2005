@@ -2,13 +2,15 @@
 content_type: resource
 description: In Zambia, a peer educator explains the process of voluntary counseling
   and testing (VCT) for HIV/AIDS. Courtesy of USAID.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/aab8b314605882614ddea9cd4ffa0d04_ec-s11f05-th.jpg
+file: /media/courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/aab8b314605882614ddea9cd4ffa0d04_ec-s11f05-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: "In Zambia, a peer educator explains the process of voluntary counseling\
     \ and testing (VCT) for HIV/AIDS. (Courtesy of\_[USAID](http://www.usaid.gov/).)"
   credit: Courtesy of USAID.
   image-alt: Several people sitting and listening to a counselor.
+learning_resource_types: []
+ocw_type: OCWImage
 resourcetype: Image
 title: ec-s11f05-th.jpg
 uid: aab8b314-6058-8261-4dde-a9cd4ffa0d04
