@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c6617d55-7a4c-2746-eccf-6371e7e3227b
 resourcetype: Document
 title: 'Diagnostic Team Proposal '
 uid: cd36b934-c9ed-b3c6-de18-69bb6f590e1c

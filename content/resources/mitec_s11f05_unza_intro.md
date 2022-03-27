@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 98babddb-9504-0fa1-1fce-6da8498918b0
 resourcetype: Document
 title: UNZA students' perspective on HIV/AIDS
 uid: e96f5bf9-6392-9abd-9534-25b4fbaee7bd

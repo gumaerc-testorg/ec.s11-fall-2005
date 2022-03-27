@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4dc5c9fb-c0dc-51e0-ce5b-c160f280fa25
 resourcetype: Document
 title: "Government inability to provide ART to all in need\u2014Cost  "
 uid: f256bc03-428a-739a-5ef4-dc5b20548a29

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4dc5c9fb-c0dc-51e0-ce5b-c160f280fa25
 resourcetype: Document
 title: Confluent Medical Records Linkages team
 uid: cd9d7148-586d-d736-8eae-ede4eed64614

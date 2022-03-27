@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Syllabus
 parent_type: CourseSection
+parent_uid: 2ef02723-6b49-d3bf-5415-8b7ad38dbc41
 resourcetype: Document
 title: Background on Course Design
 uid: 535f0c25-acfc-9be8-1030-0ed44cc75669

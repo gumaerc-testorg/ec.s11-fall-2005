@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4dc5c9fb-c0dc-51e0-ce5b-c160f280fa25
 resourcetype: Document
 title: 'Continuum of Care: Subtopic problem identification'
 uid: 5d6704e1-50d9-87e9-d578-bca23f572f39

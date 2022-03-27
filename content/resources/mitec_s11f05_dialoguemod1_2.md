@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c6617d55-7a4c-2746-eccf-6371e7e3227b
 resourcetype: Document
 title: How big of a problem is ART adherence in Zambia
 uid: ee8289f7-e29f-42c0-b1ac-32059f320542

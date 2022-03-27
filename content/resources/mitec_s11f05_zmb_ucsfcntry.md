@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 98babddb-9504-0fa1-1fce-6da8498918b0
 resourcetype: Document
 title: 'Preface: courntry AIDS Analysis Project'
 uid: 47725d77-f67f-1682-00cb-e4203b8314c4

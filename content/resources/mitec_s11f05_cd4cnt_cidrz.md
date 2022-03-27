@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c6617d55-7a4c-2746-eccf-6371e7e3227b
 resourcetype: Document
 title: 'Engineering CD4 Testing Capacity in Lusaka, Zambia Final Report '
 uid: 290a3178-c031-f32e-e623-64d1dc2cd44d

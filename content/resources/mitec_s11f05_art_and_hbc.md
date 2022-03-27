@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 98babddb-9504-0fa1-1fce-6da8498918b0
 resourcetype: Document
 title: Supporting Antiretroviral Therapy Adherence Through Home-Based Care
 uid: b1cbcdb1-d0c8-6e65-feed-95448cc26fcb

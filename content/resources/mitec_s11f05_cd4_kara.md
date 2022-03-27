@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c6617d55-7a4c-2746-eccf-6371e7e3227b
 resourcetype: Document
 title: 'Group Research for Team1: CD4 count in Lusaka'
 uid: c81de660-5e5a-20d2-0f85-fa66712a892b

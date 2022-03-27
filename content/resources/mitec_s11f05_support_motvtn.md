@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4dc5c9fb-c0dc-51e0-ce5b-c160f280fa25
 resourcetype: Document
 title: Motivation and Solution Generation
 uid: 84010858-f5fd-a2b2-5698-04b1813bdfa2

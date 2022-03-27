@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4dc5c9fb-c0dc-51e0-ce5b-c160f280fa25
 resourcetype: Document
 title: Issues in Developing HIV/AIDS Diagnostic Tools
 uid: 3045ca34-70ca-4371-3877-8d0a77d46a03

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 98babddb-9504-0fa1-1fce-6da8498918b0
 resourcetype: Document
 title: 'Commodity Management in VCT Programs: A Planning Guide'
 uid: bcddf60b-f040-be7a-3c40-5297c75f7045

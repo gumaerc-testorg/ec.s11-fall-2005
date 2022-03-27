@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 98babddb-9504-0fa1-1fce-6da8498918b0
 resourcetype: Document
 title: Zambia Final
 uid: 604c4147-6251-a805-f5b9-68c634367a13

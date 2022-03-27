@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 98babddb-9504-0fa1-1fce-6da8498918b0
 resourcetype: Document
 title: 'Chapter 1: Background and Introduction'
 uid: 74d6b9a1-0509-70ba-fcd1-13b5e161a3ab

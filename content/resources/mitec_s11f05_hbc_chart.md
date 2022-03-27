@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c6617d55-7a4c-2746-eccf-6371e7e3227b
 resourcetype: Document
 title: HBC Chart
 uid: 99907f7a-b490-1a25-492e-ed55a228cd31

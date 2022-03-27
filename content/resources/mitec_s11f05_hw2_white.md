@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 4dc5c9fb-c0dc-51e0-ce5b-c160f280fa25
 resourcetype: Document
 title: Addressing Resource Constraints in HIV Diagnostic Technology
 uid: 27c0c258-ab06-c473-c10f-a3c95a23d0af

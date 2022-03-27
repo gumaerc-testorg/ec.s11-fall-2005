@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c6617d55-7a4c-2746-eccf-6371e7e3227b
 resourcetype: Document
 title: ART Access Final Pitch
 uid: 7ae261c4-3f87-5c2c-b973-8a3a7c6e8e86

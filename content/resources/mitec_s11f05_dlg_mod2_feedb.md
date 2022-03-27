@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c6617d55-7a4c-2746-eccf-6371e7e3227b
 resourcetype: Document
 title: "This is a response from the UNZA team on the one-page paper from the Linkages\
   \ Team entitled \u201CContinuum of Care: Confluent Medical Records\u201D"

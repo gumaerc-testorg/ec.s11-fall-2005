@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 98babddb-9504-0fa1-1fce-6da8498918b0
 resourcetype: Document
 title: Stigmatization, Discrimination in the context of care
 uid: 87ecb289-72d7-8968-5b7f-4435d7ab0ed7
