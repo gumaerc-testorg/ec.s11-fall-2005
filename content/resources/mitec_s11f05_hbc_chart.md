@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding HBC Chart.
-file: /media/courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/99907f7ab4901a25492eed55a228cd31_MITEC_S11F05_hbc_chart.pdf
+file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/99907f7ab4901a25492eed55a228cd31_MITEC_S11F05_hbc_chart.pdf
 file_type: application/pdf
 learning_resource_types:
 - Projects
@@ -13,3 +13,5 @@ resourcetype: Document
 title: HBC Chart
 uid: 99907f7a-b490-1a25-492e-ed55a228cd31
 ---
+This resource contains the information regarding HBC Chart.
+

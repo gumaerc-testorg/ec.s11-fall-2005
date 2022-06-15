@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section contains information about course description, collaboration
+  with university of Zambia (UNZA), topics, grading, and guest lecturers and panelists
+  for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +19,7 @@ Course Description
 
 This multidisciplinary seminar addresses fundamental issues in global health faced by community-based healthcare programs in developing countries. Students will broadly explore topics with expert lecturers and guided readings. Topics will be further illuminated with case studies from healthcare programs in urban centers of Zambia. Multidisciplinary teams will be formed to develop feasible solutions to specific health challenges posed in the case studies and encouraged to pursue their ideas beyond the seminar. Possible global health topics include community-based AIDS/HIV management, maternity care, health diagnostics, and information technology in patient management and tracking. Students from Medicine, Public Health, Engineering, Management, and Social Sciences are encouraged to enroll. No specific background experience is expected, but students should have some relevant skills or experiences.
 
-Background on Course Design ([PDF]({{< baseurl >}}/resources/mitec_s11f05_course_design))
+Background on Course Design ({{% resource_link 535f0c25-acfc-9be8-1030-0ed44cc75669 "PDF" %}})
 
 Collaboration with University of Zambia (UNZA)
 ----------------------------------------------
