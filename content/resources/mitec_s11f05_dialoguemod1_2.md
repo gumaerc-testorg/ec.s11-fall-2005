@@ -6,6 +6,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: How big of a problem is ART adherence in Zambia
 uid: ee8289f7-e29f-42c0-b1ac-32059f320542
 ---
 This resource contains the information regarding How big of a problem is ART adherence in Zambia.
-

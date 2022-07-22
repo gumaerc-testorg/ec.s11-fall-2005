@@ -6,6 +6,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Engineering CD4 Testing Capacity in Lusaka, Zambia Final Report '
 uid: 290a3178-c031-f32e-e623-64d1dc2cd44d
 ---
 This resource contains the information regarding Engineering CD4 Testing Capacity in Lusaka, Zambia Final Report .
-

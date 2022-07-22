@@ -6,6 +6,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Continuum of Care: Subtopic problem identification'
 uid: 5d6704e1-50d9-87e9-d578-bca23f572f39
 ---
 This resource contains the information regarding Continuum of Care: Subtopic problem identification.
-

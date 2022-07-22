@@ -5,6 +5,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: VCT in Schools
 uid: 9813de40-17be-83fa-70d0-f8fb4d8c85f4
 ---
 This resource contains the information regarding VCT in Schools.
-

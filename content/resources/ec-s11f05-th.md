@@ -10,10 +10,10 @@ image_metadata:
   credit: Courtesy of USAID.
   image-alt: Several people sitting and listening to a counselor.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: ec-s11f05-th.jpg
 uid: aab8b314-6058-8261-4dde-a9cd4ffa0d04
 ---
 In Zambia, a peer educator explains the process of voluntary counseling and testing (VCT) for HIV/AIDS. Courtesy of USAID.
-

@@ -6,6 +6,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Motivation and solution generation
 uid: 993d4c8f-759f-37d7-fa25-e9c72428456f
 ---
 This resource contains the information regarding Motivation and solution generation.
-

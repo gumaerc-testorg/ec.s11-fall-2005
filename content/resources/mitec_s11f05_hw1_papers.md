@@ -5,6 +5,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Compiled Homework  1
 uid: 0aa2219a-05c2-102c-24e4-717e358a0837
 ---
 This resource contains the information regarding Compiled Homework  1.
-

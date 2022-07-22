@@ -6,6 +6,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Group Research for Team1: CD4 count in Lusaka'
 uid: c81de660-5e5a-20d2-0f85-fa66712a892b
 ---
 This resource contains the information regarding Group Research for Team1: CD4 count in Lusaka.
-

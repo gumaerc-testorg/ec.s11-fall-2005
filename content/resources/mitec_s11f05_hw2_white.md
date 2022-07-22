@@ -6,6 +6,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Addressing Resource Constraints in HIV Diagnostic Technology
 uid: 27c0c258-ab06-c473-c10f-a3c95a23d0af
 ---
 This resource contains the information regarding Addressing Resource Constraints in HIV Diagnostic Technology.
-

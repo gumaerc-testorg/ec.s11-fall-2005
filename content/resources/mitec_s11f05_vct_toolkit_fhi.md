@@ -6,6 +6,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'VCT Toolkit - Voluntary Counseling and Testing and Young People: A Summa
 uid: d6ba097f-206d-f539-43ff-d42ddbc177fd
 ---
 This resource contains the information regarding VCT Toolkit - Voluntary Counseling and Testing and Young People: A Summary Overview.
-

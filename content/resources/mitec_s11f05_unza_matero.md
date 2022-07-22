@@ -6,6 +6,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Lessons from the Matero Compound, a template for community-based healthca
 uid: 2b3daa2c-2876-cd47-df98-c85e71d167c4
 ---
 This resource contains the information regarding Lessons from the Matero Compound, a template for community-based healthcare.
-

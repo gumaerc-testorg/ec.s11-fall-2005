@@ -6,6 +6,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Supporting Antiretroviral Therapy Adherence Through Home-Based Care
 uid: b1cbcdb1-d0c8-6e65-feed-95448cc26fcb
 ---
 This resource contains the information regarding Supporting Antiretroviral Therapy Adherence Through Home-Based Care.
-

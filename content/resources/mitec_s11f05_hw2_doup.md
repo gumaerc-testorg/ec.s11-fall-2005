@@ -6,6 +6,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'HIV/ AIDS Diagnostics: Problem Identification'
 uid: 1f63f2fe-93b0-9f70-0730-595aba6ecea9
 ---
 This resource contains the information regarding HIV/ AIDS Diagnostics: Problem Identification.
-

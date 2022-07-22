@@ -6,6 +6,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Preface: courntry AIDS Analysis Project'
 uid: 47725d77-f67f-1682-00cb-e4203b8314c4
 ---
 This resource contains the information regarding Preface: courntry AIDS Analysis Project.
-

@@ -6,6 +6,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Continuum of care - linkages
 uid: 9656b3b6-c2c9-72d6-53c6-82bafbcd1553
 ---
 This resource contains the information regarding Continuum of care - linkages.
-

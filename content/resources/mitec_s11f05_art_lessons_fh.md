@@ -6,6 +6,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 'Delivering Antiretroviral Therapy in Resource-Constrained Settings: Less
 uid: 43b5100e-851e-631c-70a9-c2468e54a678
 ---
 This resource contains the information regarding Delivering Antiretroviral Therapy in Resource-Constrained Settings: Lessons from Ghana, Kenya and Rwanda.
-

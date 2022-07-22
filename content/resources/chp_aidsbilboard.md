@@ -11,10 +11,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: chp_aidsbilboard.jpg
 uid: 8adf19c1-7edc-9a90-bdf0-549687fdee85
 ---
 This public service message billboard is in the community of Matero, one of the communities studied in this course. (Photo by Mr. Peter J. Mack. Courtesy of UNICEF and The Partnership against Gender-based and Sexual Violence against Children and Women in Zambia. Used with permission.)
-

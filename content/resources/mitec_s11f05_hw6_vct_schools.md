@@ -6,6 +6,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: We'd like to propose the development of a comprehensive educational
 uid: 79654963-90b8-bfc8-fe41-5c4c7a7e2188
 ---
 This resource contains the information regarding We'd like to propose the development of a comprehensive educational.
-

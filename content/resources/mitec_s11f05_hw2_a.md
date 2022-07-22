@@ -6,6 +6,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: "Government inability to provide ART to all in need\u2014Cost  "
 uid: f256bc03-428a-739a-5ef4-dc5b20548a29
 ---
 This resource contains the information regarding Government inability to provide ART to all in need—Cost  .
-

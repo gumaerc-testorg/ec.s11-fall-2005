@@ -6,6 +6,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Chapter 1: Background and Introduction'
 uid: 74d6b9a1-0509-70ba-fcd1-13b5e161a3ab
 ---
 This resource contains the information regarding Chapter 1: Background and Introduction.
-

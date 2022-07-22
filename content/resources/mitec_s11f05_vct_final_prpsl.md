@@ -5,6 +5,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: VCT Proposal_final
 uid: ec57cd6c-6d36-7673-df0f-12b650284c18
 ---
 This resource contains the information regarding VCT Proposal_final.
-

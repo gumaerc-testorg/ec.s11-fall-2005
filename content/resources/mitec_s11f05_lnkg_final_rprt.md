@@ -5,6 +5,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Linkages final report
 uid: d2a074f1-1a9a-9846-194f-4a4e8ec14c01
 ---
 This resource contains the information regarding Linkages final report.
-

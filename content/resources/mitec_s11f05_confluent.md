@@ -6,6 +6,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Confluent Medical Records Linkages team
 uid: cd9d7148-586d-d736-8eae-ede4eed64614
 ---
 This resource contains the information regarding Confluent Medical Records Linkages team.
-

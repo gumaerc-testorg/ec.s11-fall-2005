@@ -6,6 +6,7 @@ file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Issues in Developing HIV/AIDS Diagnostic Tools
 uid: 3045ca34-70ca-4371-3877-8d0a77d46a03
 ---
 This resource contains the information regarding Issues in Developing HIV/AIDS Diagnostic Tools.
-
