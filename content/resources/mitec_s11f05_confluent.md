@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding Confluent Medical Records
   Linkages team.
 file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/cd9d7148586dd7368eaeede4eed64614_MITEC_S11F05_confluent.pdf
+file_size: 101876
 file_type: application/pdf
 learning_resource_types:
 - Assignments

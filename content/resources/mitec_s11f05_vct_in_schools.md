@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding VCT in Schools.
 file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/9813de4017be83fa70d0f8fb4d8c85f4_MITEC_S11F05_vct_in_schools.pdf
+file_size: 147478
 file_type: application/pdf
 learning_resource_types:
 - Projects
