@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Engineering CD4 Testing
   Capacity in Lusaka, Zambia Final Report .
-file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/290a3178c031f32ee62364d1dc2cd44d_MITEC_S11F05_cd4cnt_cidrz.pdf
+file: /ol-ocw-studio-app/courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/290a3178c031f32ee62364d1dc2cd44d_MITEC_S11F05_cd4cnt_cidrz.pdf
 file_size: 289907
 file_type: application/pdf
 learning_resource_types:
