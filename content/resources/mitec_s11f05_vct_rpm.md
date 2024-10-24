@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Commodity Management
   in VCT Programs: A Planning Guide.'
-file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/bcddf60bf040be7a3c405297c75f7045_MITEC_S11F05_vct_rpm.pdf
+file: /ol-ocw-studio-app/courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/bcddf60bf040be7a3c405297c75f7045_MITEC_S11F05_vct_rpm.pdf
 file_size: 511432
 file_type: application/pdf
 learning_resource_types:

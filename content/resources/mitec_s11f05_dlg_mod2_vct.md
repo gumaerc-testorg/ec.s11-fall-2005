@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Questions for both VCT
   and PMTCT.
-file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/26e28d4484b46f6a6a8a04814b144c6a_MITEC_S11F05_dlg_mod2_vct.pdf
+file: /ol-ocw-studio-app/courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/26e28d4484b46f6a6a8a04814b144c6a_MITEC_S11F05_dlg_mod2_vct.pdf
 file_size: 190775
 file_type: application/pdf
 learning_resource_types:
