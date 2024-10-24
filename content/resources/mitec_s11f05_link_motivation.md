@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Motivation and solution
   generation.
-file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/993d4c8f759f37d7fa25e9c72428456f_MITEC_S11F05_link_motivation.pdf
+file: /ol-ocw-studio-app/courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/993d4c8f759f37d7fa25e9c72428456f_MITEC_S11F05_link_motivation.pdf
 file_size: 112135
 file_type: application/pdf
 learning_resource_types:

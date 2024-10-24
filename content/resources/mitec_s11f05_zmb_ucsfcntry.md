@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding Preface: courntry AIDS
   Analysis Project.'
-file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/47725d77f67f168200cbe4203b8314c4_MITEC_S11F05_zmb_ucsfcntry.pdf
+file: /ol-ocw-studio-app/courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/47725d77f67f168200cbe4203b8314c4_MITEC_S11F05_zmb_ucsfcntry.pdf
 file_size: 1532535
 file_type: application/pdf
 learning_resource_types:
