@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding We'd like to propose
   the development of a comprehensive educational.
-file: /ol-ocw-studio-app/courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/7965496390b8bfc8fe415c4c7a7e2188_MITEC_S11F05_hw6_vct_schools.pdf
+file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/7965496390b8bfc8fe415c4c7a7e2188_MITEC_S11F05_hw6_vct_schools.pdf
 file_size: 207313
 file_type: application/pdf
 learning_resource_types:
