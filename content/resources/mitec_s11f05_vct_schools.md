@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding VCT Schools.
-file: /ol-ocw-studio-app/courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/1d347ed24551f252f00aa7b58c96c0ae_MITEC_S11F05_vct_schools.pdf
+file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/1d347ed24551f252f00aa7b58c96c0ae_MITEC_S11F05_vct_schools.pdf
 file_size: 126190
 file_type: application/pdf
 learning_resource_types:

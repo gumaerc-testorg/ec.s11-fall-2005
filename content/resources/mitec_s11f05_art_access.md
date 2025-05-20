@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding ART Access Final Pitch.
-file: /ol-ocw-studio-app/courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/7ae261c43f875c2cb9738a3a7c6e8e86_MITEC_S11F05_art_access.pdf
+file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/7ae261c43f875c2cb9738a3a7c6e8e86_MITEC_S11F05_art_access.pdf
 file_size: 249773
 file_type: application/pdf
 learning_resource_types:

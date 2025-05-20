@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding VCT Proposal_final.
-file: /ol-ocw-studio-app/courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/ec57cd6c6d367673df0f12b650284c18_MITEC_S11F05_vct_final_prpsl.pdf
+file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/ec57cd6c6d367673df0f12b650284c18_MITEC_S11F05_vct_final_prpsl.pdf
 file_size: 460992
 file_type: application/pdf
 learning_resource_types:
