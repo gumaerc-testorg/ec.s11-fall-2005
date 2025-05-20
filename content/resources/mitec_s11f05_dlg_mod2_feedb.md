@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/bbb852a87e5f47407d43a434e0c4e590_MITEC_S11F05_dlg_mod2_feedb.pdf
+file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/bbb852a87e5f47407d43a434e0c4e590_MITEC_S11F05_dlg_mod2_feedb.pdf
 file_size: 187876
 file_type: application/pdf
 learning_resource_types:

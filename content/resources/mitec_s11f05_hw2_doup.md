@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This resource contains the information regarding HIV/ AIDS Diagnostics:
   Problem Identification.'
-file: /ol-ocw-studio-app/courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/1f63f2fe93b09f700730595aba6ecea9_MITEC_S11F05_hw2_doup.pdf
+file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/1f63f2fe93b09f700730595aba6ecea9_MITEC_S11F05_hw2_doup.pdf
 file_size: 114195
 file_type: application/pdf
 learning_resource_types:
