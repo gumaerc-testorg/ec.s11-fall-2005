@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Linkages final report.
-file: /courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/d2a074f11a9a9846194f4a4e8ec14c01_MITEC_S11F05_lnkg_final_rprt.pdf
+file: /ol-ocw-studio-app/courses/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/d2a074f11a9a9846194f4a4e8ec14c01_MITEC_S11F05_lnkg_final_rprt.pdf
 file_size: 120635
 file_type: application/pdf
 learning_resource_types:
