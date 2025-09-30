@@ -9,7 +9,7 @@ ocw_type: CourseSection
 title: Readings
 uid: 98babddb-9504-0fa1-1fce-6da8498918b0
 ---
-Readings are also listed by [sessions](https://ocw-studio.odl.mit.edu/sites/ec-s11-engineering-capacity-in-community-based-healthcare-fall-2005/type/page/edit/98babddb-9504-0fa1-1fce-6da8498918b0/#ses) in the table below.
+Readings are also listed by {{% resource_link "529c5825-e8cd-478c-9f78-0503295a3fce" "sessions" %}} in the table below.
 
 ## Background Readings
 
@@ -17,7 +17,7 @@ Amoroso, A., et al. "Improving on success: what treating the urban poor in Ameri
 
 Burnett, A., et al. "Caring for people with HIV in Zambia: are traditional healers and formal health workers willing to work together?" *AIDS Care* 11, no. 4 (1999): 481-491.
 
-Chitah, M. B., and T. Bossert. "Decentralisation of Health Systems in Zambia: Resource Allocation and District Performance." Paper RP179. Takemi Program in International Health, Harvard School of Public Health. ([PDF](https://pubmed.ncbi.nlm.nih.gov/14654512/))
+Chitah, M. B., and T. Bossert. "Decentralisation of Health Systems in Zambia: Resource Allocation and District Performance." Paper RP179. Takemi Program in International Health, Harvard School of Public Health. ({{% resource_link "d51ed824-7e28-4316-977a-0f5a53a0ca91" "PDF" %}})
 
 Free, M. J. "Achieving appropriate design and widespread use of health care technologies in the developing world. Overcoming obstacles that impede the adaptation and diffusion of priority technologies for primary health care." *International Journal of Gynecology and Obstetrics* 85, supplement 1 (2004): S3-S13.
 
@@ -41,23 +41,23 @@ Omari, A., et al. "Infant-feeding practices of mothers of known HIV status in Lu
 
 Perez, F., et al. "Implementing a rural programme of prevention of mother-to-child transmission of HIV in Zimbabwe: first 18 months of experience." *Tropical Medicine and International Health* 9, no. 7 (July 2004): 774-83.
 
-Perez, F., et al. "[Prevention of mother to child transmission of HIV: evaluation of a pilot programme in a district hospital in rural Zimbabwe](http://bmj.bmjjournals.com/cgi/content/abstract/329/7475/1147)." *BMJ* 329 (November 13, 2004): 1147-1150.
+Perez, F., et al. "{{% resource_link "5311679a-6d93-46c3-9671-04fa603358f3" "Prevention of mother to child transmission of HIV: evaluation of a pilot programme in a district hospital in rural Zimbabwe" %}}." *BMJ* 329 (November 13, 2004): 1147-1150.
 
 Slonim-Nevo, V., and L. Mukuka. "AIDS-Related Knowledge, Attitudes and Behavior Among Adolescents in Zambia." *AIDS and Behavior* 9, no. 2 (June 2005): 223-32.
 
 Stringer, E. M., et al. "Prevention of mother-to-child transmission of HIV in Africa: successes and challenges in scaling-up a nevirapine-based program in Lusaka, Zambia." *AIDS* 17 (2003): 1377-1382.
 
-"[Baseline Assessment Tools for Preventing Mother-to-Child Transmission (PMTCT) of HIV](https://www.aidsdatahub.org/resource/baseline-assessment-tools-pmtct-of-hiv)." Family Health International, August 2003.
+"{{% resource_link "4ced00c4-2c52-4392-97a0-27822a9e3dd5" "Baseline Assessment Tools for Preventing Mother-to-Child Transmission (PMTCT) of HIV" %}}." Family Health International, August 2003.
 
-"Copperbelt Health Education Project (CHEP): The In-School Program." In *Education and HIV/AIDS: Sourcebook of HIV/AIDS Prevention Programmes*. Washington, DC: The International Bank for Reconstruction and Development/The World Bank, 2003. ([PDF - 3.0MB](https://www.google.com/search?q=Copperbelt+Health+Education+Project+%28CHEP%29%3A+The+In-School+Program&oq=Copperbelt+Health+Education+Project+%28CHEP)%3A+The+In-School+Program&aqs=chrome..69i57.533j0j7&sourceid=chrome&ie=UTF-8))
+"Copperbelt Health Education Project (CHEP): The In-School Program." In *Education and HIV/AIDS: Sourcebook of HIV/AIDS Prevention Programmes*. Washington, DC: The International Bank for Reconstruction and Development/The World Bank, 2003. ({{% resource_link "3ce86ff2-9f51-45c8-894e-8cbeb78758cf" "PDF - 3.0MB" %}}%3A+The+In-School+Program&aqs=chrome..69i57.533j0j7&sourceid=chrome&ie=UTF-8))
 
-"[Scaling up Antiretroviral Therapy in Resource-Limited Settings: Treatment Guidelines for a Public Health Approach](http://www.who.int/3by5/publications/documents/arv_guidelines/en/)." Geneva, Switzerland: World Health Organization, 2004.
+"{{% resource_link "2b95bfc5-3327-4760-adb9-ec5b5700be18" "Scaling up Antiretroviral Therapy in Resource-Limited Settings: Treatment Guidelines for a Public Health Approach" %}}." Geneva, Switzerland: World Health Organization, 2004.
 
-"[Standards for quality HIV care: a tool for quality assessment, improvement, and accreditation](http://www.who.int/hiv/pub/prev_care/accreditation/en/)." WHO Consultation Meeting on the Accreditation of Health Service Facilities for HIV Care\_.\_ Geneva, Switzerland: 2004. ISBN: 9241592559.
+"{{% resource_link "df171f7e-76a4-4543-9765-66e79ec23883" "Standards for quality HIV care: a tool for quality assessment, improvement, and accreditation" %}}." WHO Consultation Meeting on the Accreditation of Health Service Facilities for HIV Care\_.\_ Geneva, Switzerland: 2004. ISBN: 9241592559.
 
 "Voices from Zambian communities: Experiences of HIV/AIDS-related treatment in urban and rural settings." International HIV/AIDS Alliance, 2004.
 
-"[Zambia Nutrition Guidelines for Care and Support of People Living with HIV/AIDS](https://www.fantaproject.org/tools/zambia-nutrition-guidelines-care-and-support-people-hiv)." Zambia National Food and Nutrition Commission, 2004.
+"{{% resource_link "ac425f9c-3849-420a-8831-1c9a8b4bcc27" "Zambia Nutrition Guidelines for Care and Support of People Living with HIV/AIDS" %}}." Zambia National Food and Nutrition Commission, 2004.
 
 ## {{< anchor "ses" >}}{{< /anchor >}}Readings by Sessions
 
@@ -87,7 +87,7 @@ Introduction to Healthcare in Lusaka
 
 UNZA students' perspective on HIV/AIDS. ({{% resource_link "e96f5bf9-6392-9abd-9534-25b4fbaee7bd" "PDF" %}})
 
-Office of the United States Global AIDS Coordinator. "[Country Profile - Zambia](http://www.cdc.gov/nchstp/od/gap/countries/Zambia/)."
+Office of the United States Global AIDS Coordinator. "{{% resource_link "92a6f4b8-1e37-4260-b05f-04d3e4a265a0" "Country Profile - Zambia" %}}."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
@@ -125,9 +125,9 @@ Ministry of Health, Republic of Zambia. "National HIV/AIDS Policy." May 2004, Fi
 
 Ritzenthaler, Robert. "Delivering Antiretroviral Therapy in Resource-Constrained Settings: Lessons from Ghana, Kenya and Rwanda." Family Health International, August 2005. ({{% resource_link "43b5100e-851e-631c-70a9-c2468e54a678" "PDF - 4.2MB" %}}) (Courtesy of FHI.)
 
-WHO/UNAIDS Zambia Consultation. "[Emergency scale-up of antiretroviral therapy in resource-limited settings: technical and operational recommendations to achieve 3 by 5](http://www.who.int/3by5/publications/documents/zambia/en/)." Geneva, Switzerland: World Health Organization, 2004.
+WHO/UNAIDS Zambia Consultation. "{{% resource_link "d403051f-ccb2-4e29-bc71-53ee4d7d56cd" "Emergency scale-up of antiretroviral therapy in resource-limited settings: technical and operational recommendations to achieve 3 by 5" %}}." Geneva, Switzerland: World Health Organization, 2004.
 
-Kombe, G., and O. Smith. "The Costs of Anti-Retroviral Treatment in Zambia." Technical Report 029. Bethesda, MD: The Partners for Health Reformplus Project, Abt Associates Inc., October 2003. ([PDF](http://www.who.int/hiv/amds/countries/zmb_CostsARVTreatment.pdf)) (Courtesy of Abt Associates.)
+Kombe, G., and O. Smith. "The Costs of Anti-Retroviral Treatment in Zambia." Technical Report 029. Bethesda, MD: The Partners for Health Reformplus Project, Abt Associates Inc., October 2003. ({{% resource_link "28d403b1-49cb-44b0-a8e5-62267a50e531" "PDF" %}}) (Courtesy of Abt Associates.)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -164,9 +164,9 @@ Editorial. "ICN International Perspectives: Nurses in Zambia gain access to anti
 
 Forum for Collaborative HIV Research. "Transfer of HIV Monitoring Technologies into Resource-Poor Settings: Moving the Field Forward." Report from February 26, 2005 workshop, Washington DC. 
 
-"[WHO Consultation on Technical and Operational Recommendations for Scale-Up of Laboratory Services and Monitoring HIV Antiretroviral Therapy in Resource-Limited Settings (2004: Geneva, Switzerland)](http://www.who.int/diagnostics_laboratory/events_hivlab/en/index.html)." Geneva, Switzerland: WHO Press, 2005. ISBN: 9241593687.
+"{{% resource_link "fec7cdb8-6e4b-4957-9e6f-8d893b1757f3" "WHO Consultation on Technical and Operational Recommendations for Scale-Up of Laboratory Services and Monitoring HIV Antiretroviral Therapy in Resource-Limited Settings (2004: Geneva, Switzerland)" %}}." Geneva, Switzerland: WHO Press, 2005. ISBN: 9241593687.
 
-Landay, Alan. "Summary of Findings for CD4 Assays." *Presentation for Workshop on HIV Monitoring and Diagnostic Technology Transfer to Resource Poor Settings*. Washington DC, April 22, 2002. ([PDF - 1.0MB](http://www.hivforum.org/storage/documents/Technology/Archive/landay.pdf))
+Landay, Alan. "Summary of Findings for CD4 Assays." *Presentation for Workshop on HIV Monitoring and Diagnostic Technology Transfer to Resource Poor Settings*. Washington DC, April 22, 2002. ({{% resource_link "55079d2d-5fc7-4110-b1c5-983fe9aba619" "PDF - 1.0MB" %}})
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
